@@ -7,20 +7,31 @@
 
 ### 🚀 About Me
 
-**Currently working as a CSPM Engineer Intern @ [Securin](https://securin.io/)**  
+Hey there! I'm **Aswin** from **Chennai**, currently in my **final year** at  
+🎓 **Rajalakshmi Institute of Technology**, pursuing **Computer Science & Engineering (AI & ML)**.
 
-Completed **5 internships** at leading organizations:  
-&nbsp;&nbsp;&nbsp;&nbsp;-Magicbox Animations Pvt Ltd  
-&nbsp;&nbsp;&nbsp;&nbsp;-EOT Technologies  
-&nbsp;&nbsp;&nbsp;&nbsp;-IIT-AIIC  
-&nbsp;&nbsp;&nbsp;&nbsp;-AM Jain College  
-&nbsp;&nbsp;&nbsp;&nbsp;-Impensus Electronics Pvt Ltd  
+I’m currently working as a **CSPM Engineer Intern** at [**Securin**](https://securin.io/), where I’m exploring the intersection of **cloud security** and **automation**.
 
-I specialize in:
-- ⚙️ **Full Stack Development**
-- 📱 **App Development**
-- 🌐 **Web Development**
-- 🪄 **Augmented Reality & Web AR**
+Over the past few years, I’ve completed **5 exciting internships**, gaining hands-on experience across a wide range of technologies:
+
+-  **Magicbox Animations Pvt Ltd**  
+-  **EOT Technologies**  
+-  **IIT-AIIC**  
+-  **AM Jain College**  
+-  **Impensus Electronics Pvt Ltd**
+
+---
+
+💡 My technical interests and areas of expertise include:
+
+- ⚙️ **Full Stack Development** – Building scalable, performant web & mobile apps  
+- 📱 **App Development** – Cross-platform experiences with Flutter & native tools  
+- 🌐 **Web Development** – Modern UI/UX, RESTful APIs, cloud deployment  
+- 🪄 **Augmented Reality & WebAR** – Creating immersive, interactive experiences  
+
+I'm passionate about **learning by building**, and I love turning ideas into reality with tech.
+
+
 
 ---
 
