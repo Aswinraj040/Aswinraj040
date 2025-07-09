@@ -1,27 +1,26 @@
 <!-- Profile banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3F8AC9&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+%F0%9F%91%8B;Full+Stack+%7C+Web+%7C+AR+Developer;Lifelong+Learner+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3F8AC9&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aswin+%F0%9F%91%8B;Full+Stack+%7C+Web+%7C+App+%7C+AR;Lifelong+Learner+%7C+Tech+Explorer" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🎓 **Currently working as a CSPM Engineer Intern @ [Securin](https://securin.io/)**  
-🔁 Completed **5 internships** at leading organizations:  
-&nbsp;&nbsp;&nbsp;&nbsp;🎨 Magicbox Animations Pvt Ltd  
-&nbsp;&nbsp;&nbsp;&nbsp;💻 EOT Technologies  
-&nbsp;&nbsp;&nbsp;&nbsp;🏫 IIT-AIIC  
-&nbsp;&nbsp;&nbsp;&nbsp;🏛️ AM Jain College  
-&nbsp;&nbsp;&nbsp;&nbsp;⚡ Impensus Electronics Pvt Ltd  
+**Currently working as a CSPM Engineer Intern @ [Securin](https://securin.io/)**  
 
-💡 I specialize in:
+Completed **5 internships** at leading organizations:  
+&nbsp;&nbsp;&nbsp;&nbsp;-Magicbox Animations Pvt Ltd  
+&nbsp;&nbsp;&nbsp;&nbsp;-EOT Technologies  
+&nbsp;&nbsp;&nbsp;&nbsp;-IIT-AIIC  
+&nbsp;&nbsp;&nbsp;&nbsp;-AM Jain College  
+&nbsp;&nbsp;&nbsp;&nbsp;-Impensus Electronics Pvt Ltd  
+
+I specialize in:
 - ⚙️ **Full Stack Development**
 - 📱 **App Development**
 - 🌐 **Web Development**
 - 🪄 **Augmented Reality & Web AR**
-
-🧠 Always learning, building, and pushing the limits of tech.
 
 ---
 
@@ -31,9 +30,9 @@
 pie
     title Expertise Domains
     "Full Stack Dev": 30
-    "App Dev": 20
+    "App Dev": 30
     "Web Dev": 20
-    "AR/WebAR": 30
+    "AR/WebAR": 20
 ```
 
 **Languages & Frameworks:**
@@ -47,7 +46,7 @@ pie
 
 **Cloud & DevOps:**
 
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Google Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -62,25 +61,23 @@ pie
 
 #### 🧱 Full Stack:
 
-🚀 [Smart Inventory System](#) – (Flask, MySQL, AWS Lambda)
+[GPS Toll Based Simulation Using Python](https://github.com/Aswinraj040/GPS_TOLL_BASED_SIMULATION_PYTHON) – (Flask, MySQL, Plotly , Python)
 
 #### 📱 App Development:
 
-📱 [Expense Tracker App](#) – (Flutter, Dart, Firebase)
+[Password Manager](https://github.com/Aswinraj040/PasswordManager) – (Kotlin, JetPack Compose)
 
-#### 🌐 Web Development:
+#### 🌐 Backend Development:
 
-🛒 [E-Commerce Platform](#) – (React, Node.js, MongoDB)
+[GmailTasker](https://github.com/Aswinraj040/Happyfox_assignment) – (Python, MySQL)
 
 #### 🪄 Augmented Reality:
 
-🧠 [Interactive AR Museum Guide](#) – (Unity + AR Foundation + C#)
+[AR Engine Explorer](https://github.com/Aswinraj040/Ar_App) – (Unity + AR Foundation + C#)
 
 #### 🌍 Web AR:
 
-🎯 [Try-on Glasses in Browser](#) – (8thWall + Three.js)
-
-> 💡 *Links are placeholders – plug in your best project URLs!*
+[Image tracking using WebAR](https://github.com/Aswinraj040/WebARProject) – (HTML + Ar.js)
 
 ---
 
@@ -95,8 +92,8 @@ pie
 
 ### 💬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-📧 **Mail:** [yourmail@example.com](mailto:yourmail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-aswin-51388a24b/)  
+📧 **Mail:** [aswinraj040@gmail.com](mailto:aswinraj040@gmail.com)
 
 ---
 
@@ -104,7 +101,7 @@ pie
 
 - 🏸 Playing badminton & chess  
 - 🚗 Driving and exploring  
-- 🔧 Modifying & repairing electronic gadgets  
+- 🔧 Modifying and fixing electronic devices
 
 ---
 
