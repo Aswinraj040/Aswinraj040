@@ -82,7 +82,7 @@ pie
 
 #### 🌐 Backend Development:
 
-[GmailTasker](https://github.com/Aswinraj040/Happyfox_assignment) – (Python, MySQL)
+[GmailTasker](https://github.com/Aswinraj040/GMail_Automation_Project) – (Python, MySQL)
 
 #### 🪄 Augmented Reality:
 
